@@ -1,3 +1,3 @@
 # Water pump repair models 
 
-## Random Forests, Cross-Validation, XGB Classifier, 
+Random Forests, Decision Trees, Cross-Validation, XGB Classifier
